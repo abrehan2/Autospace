@@ -1,6 +1,6 @@
 // Imports:
-import { add } from "@autospace/sample-lib";
+import { add } from '@autospace/sample-lib'
 
 export default function Home() {
-  return <p>Hello, {add(10, 5)}.</p>;
+  return <p>Hello, {add(10, 5)}.</p>
 }
